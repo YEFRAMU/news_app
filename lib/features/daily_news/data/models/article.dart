@@ -24,3 +24,4 @@ class ArticleModel extends ArticleEntity{
     );
   }
 }
+
